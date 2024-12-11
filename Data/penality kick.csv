@@ -1,0 +1,548 @@
+date,home_team,home_continent,opponent_team,opponent_continent,winner
+8/22/1967,India,Asia,Taiwan,Asia,Taiwan
+11/14/1971,South Korea,Asia,Vietnam Republic,Asia,South Korea
+5/7/1972,South Korea,Asia,Iraq,Asia,Iraq
+5/17/1972,Thailand,Asia,South Korea,Asia,South Korea
+5/19/1972,Thailand,Asia,Cambodia,Asia,Thailand
+4/21/1973,Senegal,Africa,Ghana,Africa,Ghana
+6/14/1973,Guinea,Africa,Mali,Africa,Guinea
+6/14/1973,Mauritius,Africa,Tanzania,Africa,Mauritius
+7/26/1973,Malaysia,Asia,Kuwait,Asia,Malaysia
+7/26/1973,Cambodia,Asia,Singapore,Asia,Singapore
+7/27/1973,Bangladesh,Asia,Thailand,Asia,Thailand
+7/28/1973,Myanmar,Asia,South Korea,Asia,Myanmar
+8/9/1973,India,Asia,Vietnam Republic,Asia,Vietnam Republic
+8/23/1973,Algeria,Africa,Syria,Asia,Syria
+8/25/1973,Algeria,Africa,Iraq,Asia,Algeria
+3/28/1974,Qatar,Asia,United Arab Emirates,Asia,Qatar
+7/24/1974,Hong Kong,Asia,Indonesia,Asia,Indonesia
+8/1/1974,India,Asia,Indonesia,Asia,Indonesia
+10/9/1974,Syria,Asia,Morocco,Africa,Morocco
+11/22/1974,Libya,Africa,Tunisia,Africa,Tunisia
+12/18/1974,South Korea,Asia,Malaysia,Asia,South Korea
+7/13/1975,Morocco,Africa,Ghana,Africa,Morocco
+11/9/1975,Kenya,Africa,Malawi,Africa,Kenya
+12/23/1975,Libya,Africa,Syria,Asia,Syria
+6/20/1976,Czechoslovakia,Europe,Germany,Europe,Czechoslovakia
+12/22/1976,South Korea,Asia,Malaysia,Asia,Malaysia
+1/9/1977,Tunisia,Africa,Morocco,Africa,Tunisia
+3/22/1977,Argentina,South America,Iran,Asia,Argentina
+6/26/1977,Zambia,Africa,Algeria,Africa,Zambia
+7/27/1977,Iran,Asia,Morocco,Africa,Iran
+8/31/1977,Paraguay,South America,Argentina,South America,Paraguay
+1/13/1979,Guinea-Bissau,Africa,Mali,Africa,Mali
+1/14/1979,Guinea-Bissau,Africa,Guinea,Africa,Guinea
+4/29/1979,Cameroon,Africa,Guinea,Africa,Guinea
+5/22/1979,Argentina,South America,Netherlands,Europe,Argentina
+2/16/1980,Gambia,Africa,Mauritania,Africa,Gambia
+3/19/1980,Algeria,Africa,Egypt,Africa,Algeria
+6/21/1980,Italy,Europe,Czechoslovakia,Europe,Czechoslovakia
+7/12/1980,Nigeria,Africa,Tunisia,Africa,Nigeria
+11/30/1980,Zambia,Africa,Morocco,Africa,Morocco
+12/31/1980,Hong Kong,Asia,China PR,Asia,China PR
+2/13/1981,Mali,Africa,Guinea,Africa,Guinea
+5/10/1981,Rwanda,Africa,Ethiopia,Africa,Ethiopia
+2/21/1982,Ivory Coast,Africa,Togo,Africa,Togo
+2/22/1982,Ivory Coast,Africa,Burkina Faso,Africa,Burkina Faso
+3/19/1982,Libya,Africa,Ghana,Africa,Ghana
+5/15/1982,Thailand,Asia,Singapore,Asia,Thailand
+5/17/1982,Thailand,Asia,South Korea,Asia,Thailand
+7/8/1982,Germany,Europe,France,Europe,Germany
+10/17/1982,Indonesia,Asia,Malaysia,Asia,Indonesia
+11/27/1982,Uganda,Africa,Kenya,Africa,Kenya
+2/6/1983,Senegal,Africa,Niger,Africa,Senegal
+2/20/1983,Gambia,Africa,Sierra Leone,Africa,Gambia
+2/27/1983,Mali,Africa,Guinea,Africa,Mali
+4/22/1983,Egypt,Africa,Congo,Africa,Egypt
+4/24/1983,Mauritius,Africa,Ethiopia,Africa,Ethiopia
+7/18/1983,Hong Kong,Asia,Thailand,Asia,Thailand
+8/28/1983,Morocco,Africa,Nigeria,Africa,Nigeria
+10/20/1983,Brazil,South America,Paraguay,South America,Brazil
+12/15/1983,Ivory Coast,Africa,Mali,Africa,Ivory Coast
+12/18/1983,Mali,Africa,Nigeria,Africa,Mali
+2/16/1984,Sierra Leone,Africa,Mali,Africa,Sierra Leone
+2/19/1984,Sierra Leone,Africa,Senegal,Africa,Senegal
+3/14/1984,Egypt,Africa,Nigeria,Africa,Nigeria
+3/14/1984,Algeria,Africa,Cameroon,Africa,Cameroon
+3/28/1984,Iraq,Asia,Qatar,Asia,Iraq
+6/24/1984,Denmark,Europe,Spain,Europe,Spain
+7/15/1984,Senegal,Africa,Angola,Africa,Angola
+11/23/1984,Kenya,Africa,Somalia,Africa,Kenya
+11/28/1984,Ghana,Africa,Togo,Africa,Ghana
+12/8/1984,Kenya,Africa,Somalia,Africa,Kenya
+12/13/1984,Saudi Arabia,Asia,Iran,Asia,Saudi Arabia
+12/15/1984,Malawi,Africa,Zambia,Africa,Zambia
+12/16/1984,Iran,Asia,Kuwait,Asia,Kuwait
+12/16/1984,Chad,Africa,Equatorial Guinea,Africa,Chad
+12/19/1984,Central African Republic,Africa,Gabon,Africa,Gabon
+12/20/1984,Congo,Africa,Cameroon,Africa,Cameroon
+4/16/1985,Mozambique,Africa,Malawi,Africa,Mozambique
+4/21/1985,Madagascar,Africa,Egypt,Africa,Egypt
+7/10/1985,Bahrain,Asia,Qatar,Asia,Bahrain
+7/12/1985,Saudi Arabia,Asia,Qatar,Asia,Saudi Arabia
+8/25/1985,Mali,Africa,Guinea,Africa,Guinea
+9/15/1985,Mozambique,Africa,Libya,Africa,Mozambique
+10/11/1985,Kenya,Africa,Uganda,Africa,Kenya
+3/21/1986,Egypt,Africa,Cameroon,Africa,Egypt
+6/21/1986,Brazil,South America,France,Europe,France
+6/21/1986,Mexico,North America,Germany,Europe,Germany
+6/22/1986,Spain,Europe,Belgium,Europe,Belgium
+10/19/1986,Gabon,Africa,Angola,Africa,Angola
+12/17/1986,Chad,Africa,Gabon,Africa,Chad
+3/1/1987,Mali,Africa,Sierra Leone,Africa,Mali
+3/2/1987,Senegal,Africa,Sierra Leone,Africa,Senegal
+6/19/1987,Australia,Oceania,Egypt,Africa,Australia
+6/21/1987,South Korea,Asia,Australia,Oceania,South Korea
+7/19/1987,DR Congo,Africa,Senegal,Africa,DR Congo
+12/13/1987,Malawi,Africa,Zimbabwe,Africa,Zimbabwe
+12/18/1987,Equatorial Guinea,Africa,Gabon,Africa,Gabon
+12/27/1987,Ethiopia,Africa,Zimbabwe,Africa,Ethiopia
+1/6/1988,South Korea,Asia,Egypt,Africa,South Korea
+3/23/1988,Algeria,Africa,Nigeria,Africa,Nigeria
+3/26/1988,Morocco,Africa,Algeria,Africa,Algeria
+3/31/1988,Germany,Europe,Sweden,Europe,Sweden
+5/5/1988,Mali,Africa,Senegal,Africa,Mali
+5/8/1988,Guinea,Africa,Mali,Africa,Guinea
+5/28/1988,Canada,North America,Greece,Europe,Canada
+7/19/1988,Egypt,Africa,Syria,Asia,Syria
+7/21/1988,Iraq,Asia,Syria,Asia,Iraq
+9/29/1988,Chile,South America,Ecuador,South America,Ecuador
+10/16/1988,Eswatini,Africa,Tanzania,Africa,Eswatini
+12/6/1988,Central African Republic,Africa,Gabon,Africa,Gabon
+12/17/1988,China PR,Asia,Iran,Asia,Iran
+12/18/1988,South Korea,Asia,Saudi Arabia,Asia,Saudi Arabia
+4/23/1989,Ghana,Africa,Gabon,Africa,Gabon
+4/23/1989,Kenya,Africa,Sudan,Africa,Kenya
+11/8/1989,Iran,Asia,Uganda,Africa,Uganda
+11/12/1989,Iraq,Asia,Uganda,Africa,Iraq
+12/11/1989,Chad,Africa,Cameroon,Africa,Cameroon
+12/16/1989,Malawi,Africa,Uganda,Africa,Uganda
+1/28/1990,Nigeria,Africa,Senegal,Africa,Nigeria
+2/4/1990,United States,North America,Colombia,South America,Colombia
+2/20/1990,Colombia,South America,Russia,Europe/Asia,Colombia
+5/18/1990,Zimbabwe,Africa,Eswatini,Africa,Zimbabwe
+6/25/1990,Republic of Ireland,Europe,Romania,Europe,Republic of Ireland
+6/30/1990,Yugoslavia,Europe,Argentina,South America,Argentina
+7/3/1990,Italy,Europe,Argentina,South America,Argentina
+7/4/1990,Germany,Europe,England,Europe,Germany
+8/3/1990,China PR,Asia,South Korea,Asia,South Korea
+12/17/1990,Tanzania,Africa,Uganda,Africa,Uganda
+12/17/1990,Central African Republic,Africa,Equatorial Guinea,Africa,Central African Republic
+1/21/1991,Cameroon,Africa,Algeria,Africa,Cameroon
+1/21/1991,Senegal,Africa,Ivory Coast,Africa,Ivory Coast
+1/22/1991,Senegal,Africa,Algeria,Africa,Senegal
+1/23/1991,Ivory Coast,Africa,Cameroon,Africa,Ivory Coast
+6/14/1991,South Korea,Asia,Australia,Oceania,South Korea
+6/16/1991,Italy,Europe,Russia,Europe/Asia,Italy
+7/7/1991,United States,North America,Honduras,North America,United States
+8/8/1991,Czechoslovakia,Europe,Yugoslavia,Europe,Czechoslovakia
+9/20/1991,Fiji,Oceania,Solomon Islands,Oceania,Fiji
+9/28/1991,Egypt,Africa,Mali,Africa,Egypt
+1/23/1992,Cameroon,Africa,Ivory Coast,Africa,Ivory Coast
+1/26/1992,Ghana,Africa,Ivory Coast,Africa,Ivory Coast
+6/22/1992,Netherlands,Europe,Denmark,Europe,Denmark
+6/27/1992,Cuba,North America,Martinique,North America,Martinique
+8/29/1992,Japan,Asia,South Korea,Asia,Japan
+9/15/1992,Syria,Asia,Egypt,Africa,Egypt
+11/8/1992,China PR,Asia,United Arab Emirates,Asia,China PR
+11/25/1992,Uganda,Africa,Zambia,Africa,Uganda
+1/23/1993,Japan,Asia,Switzerland,Europe,Switzerland
+2/20/1993,Finland,Europe,Estonia,Europe,Finland
+2/24/1993,Argentina,South America,Denmark,Europe,Argentina
+5/27/1993,Bolivia,South America,Paraguay,South America,Bolivia
+5/28/1993,Martinique,North America,Saint Kitts and Nevis,North America,Martinique
+5/30/1993,Jamaica,North America,Martinique,North America,Martinique
+6/26/1993,Colombia,South America,Uruguay,South America,Colombia
+6/27/1993,Brazil,South America,Argentina,South America,Argentina
+7/1/1993,Colombia,South America,Argentina,South America,Argentina
+8/15/1993,Australia,Oceania,Canada,North America,Australia
+10/24/1993,Burundi,Africa,Guinea,Africa,Guinea
+1/29/1994,Burkina Faso,Africa,Guinea,Africa,Burkina Faso
+4/6/1994,Nigeria,Africa,Ivory Coast,Africa,Nigeria
+7/5/1994,Mexico,North America,Bulgaria,Europe,Bulgaria
+7/10/1994,Romania,Europe,Sweden,Europe,Sweden
+7/17/1994,Brazil,South America,Italy,Europe,Brazil
+12/8/1994,Tanzania,Africa,Uganda,Africa,Tanzania
+1/10/1995,Denmark,Europe,Mexico,North America,Denmark
+1/13/1995,Mexico,North America,Nigeria,Africa,Mexico
+2/26/1995,Japan,Asia,South Korea,Asia,Japan
+3/31/1995,India,Asia,Bangladesh,Asia,India
+5/21/1995,Antigua and Barbuda,North America,Saint Kitts and Nevis,North America,Antigua and Barbuda
+6/9/1995,Paraguay,South America,Bolivia,South America,Paraguay
+7/16/1995,Paraguay,South America,Colombia,South America,Colombia
+7/17/1995,United States,North America,Mexico,North America,United States
+7/17/1995,Brazil,South America,Argentina,South America,Brazil
+7/23/1995,Uruguay,South America,Brazil,South America,Uruguay
+8/24/1995,Fiji,Oceania,Solomon Islands,Oceania,Solomon Islands
+11/28/1995,Mauritania,Africa,Sierra Leone,Africa,Sierra Leone
+12/2/1995,Gabon,Africa,Cameroon,Africa,Cameroon
+12/2/1995,Algeria,Africa,Ivory Coast,Africa,Ivory Coast
+12/6/1995,Ethiopia,Africa,Zanzibar,Africa,Zanzibar
+12/7/1995,Honduras,North America,Costa Rica,North America,Honduras
+1/28/1996,Gabon,Africa,Tunisia,Africa,Tunisia
+2/22/1996,Japan,Asia,Sweden,Europe,Sweden
+4/28/1996,Barbados,North America,Jamaica,North America,Jamaica
+5/5/1996,Guyana,South America,Suriname,South America,Suriname
+6/5/1996,Martinique,North America,Suriname,South America,Martinique
+6/22/1996,England,Europe,Spain,Europe,England
+6/22/1996,France,Europe,Netherlands,Europe,France
+6/26/1996,France,Europe,Czech Republic,Europe,Czech Republic
+6/26/1996,England,Europe,Germany,Europe,Germany
+8/25/1996,Ethiopia,Africa,Uganda,Africa,Ethiopia
+11/29/1996,Sudan,Africa,Kenya,Africa,Sudan
+12/11/1996,Morocco,Africa,Croatia,Europe,Croatia
+12/12/1996,Croatia,Europe,Czech Republic,Europe,Croatia
+12/19/1996,Iran,Asia,Saudi Arabia,Asia,Saudi Arabia
+12/21/1996,Iran,Asia,Kuwait,Asia,Iran
+12/21/1996,United Arab Emirates,Asia,Saudi Arabia,Asia,Saudi Arabia
+12/27/1996,Benin,Africa,Burkina Faso,Africa,Benin
+2/7/1997,Russia,Europe/Asia,Serbia,Europe,Russia
+4/10/1997,India,Asia,Iraq,Asia,Iraq
+6/22/1997,Ecuador,South America,Mexico,North America,Mexico
+7/10/1997,Trinidad and Tobago,North America,Jamaica,North America,Trinidad and Tobago
+10/20/1997,Haiti,North America,Cuba,North America,Haiti
+10/22/1997,Cuba,North America,Cameroon,Africa,Cuba
+12/7/1997,Gambia,Africa,Guinea,Africa,Guinea
+1/31/1998,Egypt,Africa,South Korea,Asia,South Korea
+1/31/1998,Iran,Asia,Chile,South America,Iran
+2/21/1998,Burkina Faso,Africa,Tunisia,Africa,Burkina Faso
+2/21/1998,Ivory Coast,Africa,Egypt,Africa,Egypt
+2/27/1998,Burkina Faso,Africa,DR Congo,Africa,DR Congo
+4/22/1998,Hungary,Europe,North Macedonia,Europe,Hungary
+5/29/1998,Belgium,Europe,England,Europe,Belgium
+5/29/1998,Morocco,Africa,France,Europe,Morocco
+6/30/1998,Argentina,South America,England,Europe,Argentina
+7/3/1998,France,Europe,Italy,Europe,France
+7/7/1998,Brazil,South America,Netherlands,Europe,Brazil
+9/5/1998,Indonesia,Asia,Thailand,Asia,Indonesia
+11/17/1998,Guatemala,North America,Honduras,North America,Guatemala
+11/18/1998,Guatemala,North America,Mexico,North America,Guatemala
+12/2/1998,United Arab Emirates,Asia,North Korea,Asia,United Arab Emirates
+5/22/1999,Malawi,Africa,Namibia,Africa,Namibia
+6/16/1999,Thailand,Asia,New Zealand,Oceania,Thailand
+6/19/1999,New Zealand,Oceania,Poland,Europe,Poland
+7/10/1999,Mexico,North America,Peru,South America,Mexico
+7/10/1999,Paraguay,South America,Uruguay,South America,Uruguay
+7/13/1999,Uruguay,South America,Chile,South America,Uruguay
+7/18/1999,Eswatini,Africa,Zimbabwe,Africa,Eswatini
+7/31/1999,Namibia,Africa,South Africa,Africa,Namibia
+8/3/1999,Rwanda,Africa,Kenya,Africa,Kenya
+8/7/1999,Rwanda,Africa,Burundi,Africa,Rwanda
+8/7/1999,Zambia,Africa,Mozambique,Africa,Zambia
+8/28/1999,Namibia,Africa,Eswatini,Africa,Namibia
+11/26/1999,Gabon,Africa,Togo,Africa,Togo
+2/4/2000,Romania,Europe,Georgia,Asia,Romania
+2/12/2000,South Africa,Africa,Tunisia,Africa,South Africa
+2/13/2000,Nigeria,Africa,Cameroon,Africa,Cameroon
+2/19/2000,United States,North America,Colombia,South America,Colombia
+3/19/2000,Suriname,South America,Saint Lucia,North America,Suriname
+4/29/2000,British Virgin Islands,North America,Sint Maarten,North America,British Virgin Islands
+4/30/2000,British Virgin Islands,North America,Antigua and Barbuda,North America,Antigua and Barbuda
+5/10/2000,Maldives,Asia,Sri Lanka,Asia,Sri Lanka
+5/11/2000,Senegal,Africa,Mali,Africa,Senegal
+5/20/2000,Malawi,Africa,Angola,Africa,Angola
+5/21/2000,Barbados,North America,Cuba,North America,Barbados
+6/4/2000,France,Europe,Japan,Asia,France
+6/7/2000,Iran,Asia,Egypt,Africa,Egypt
+6/11/2000,Lesotho,Africa,Zambia,Africa,Lesotho
+6/29/2000,Netherlands,Europe,Italy,Europe,Italy
+7/14/2000,Libya,Africa,Chad,Africa,Libya
+7/16/2000,Mozambique,Africa,Lesotho,Africa,Lesotho
+9/3/2000,Togo,Africa,Sierra Leone,Africa,Togo
+10/4/2000,United Arab Emirates,Asia,South Korea,Asia,United Arab Emirates
+10/28/2000,Kenya,Africa,Uganda,Africa,Uganda
+12/2/2000,Ethiopia,Africa,Rwanda,Africa,Ethiopia
+1/17/2001,China PR,Asia,Egypt,Africa,Egypt
+1/27/2001,South Korea,Asia,Paraguay,South America,South Korea
+2/11/2001,Eswatini,Africa,Zambia,Africa,Eswatini
+7/12/2001,Ynys Môn,Europe,Jersey,Europe,Ynys Môn
+7/13/2001,Guernsey,Europe,Ynys Môn,Europe,Guernsey
+7/29/2001,Uruguay,South America,Honduras,North America,Honduras
+8/3/2001,China PR,Asia,North Korea,Asia,North Korea
+8/3/2001,Kuwait,Asia,Trinidad and Tobago,North America,Kuwait
+8/5/2001,Kuwait,Asia,North Korea,Asia,North Korea
+8/18/2001,Zambia,Africa,Angola,Africa,Angola
+10/24/2001,Kenya,Africa,Uganda,Africa,Kenya
+10/24/2001,Tanzania,Africa,DR Congo,Africa,Tanzania
+12/18/2001,Ethiopia,Africa,Burundi,Africa,Ethiopia
+1/6/2002,Martinique,North America,Haiti,North America,Martinique
+1/26/2002,Canada,North America,Martinique,North America,Canada
+1/27/2002,Mexico,North America,South Korea,Asia,South Korea
+1/30/2002,United States,North America,Canada,North America,United States
+2/10/2002,Senegal,Africa,Cameroon,Africa,Cameroon
+2/12/2002,Cyprus,Europe,Switzerland,Europe,Cyprus
+2/15/2002,China PR,Asia,Slovenia,Europe,Slovenia
+2/16/2002,Thailand,Asia,North Korea,Asia,North Korea
+3/30/2002,Botswana,Africa,South Africa,Africa,South Africa
+5/17/2002,Russia,Europe/Asia,Belarus,Europe,Belarus
+5/19/2002,Russia,Europe/Asia,Serbia,Europe,Serbia
+6/16/2002,Spain,Europe,Republic of Ireland,Europe,Spain
+6/22/2002,South Korea,Asia,Spain,Europe,South Korea
+7/21/2002,South Africa,Africa,Madagascar,Africa,South Africa
+9/5/2002,Iraq,Asia,Iran,Asia,Iraq
+9/7/2002,Syria,Asia,Iran,Asia,Iran
+9/17/2002,Iran,Asia,Morocco,Africa,Iran
+9/19/2002,Iran,Asia,Paraguay,South America,Iran
+10/23/2002,Kenya,Africa,South Africa,Africa,Kenya
+10/26/2002,Tanzania,Africa,South Africa,Africa,South Africa
+10/26/2002,Kenya,Africa,Uganda,Africa,Kenya
+11/19/2002,South Africa,Africa,Senegal,Africa,Senegal
+12/27/2002,Niger,Africa,Burkina Faso,Africa,Burkina Faso
+12/29/2002,Niger,Africa,Mali,Africa,Niger
+1/20/2003,Bangladesh,Asia,Maldives,Asia,Bangladesh
+2/4/2003,Uruguay,South America,Iran,Asia,Uruguay
+3/7/2003,Benin,Africa,Niger,Africa,Benin
+3/15/2003,Guadeloupe,North America,French Guiana,South America,Guadeloupe
+3/22/2003,Mozambique,Africa,Lesotho,Africa,Mozambique
+3/27/2003,Tunisia,Africa,Ghana,Africa,Tunisia
+3/30/2003,Ghana,Africa,Madagascar,Africa,Ghana
+5/24/2003,Botswana,Africa,Malawi,Africa,Malawi
+7/9/2003,New Caledonia,Oceania,Vanuatu,Oceania,New Caledonia
+8/16/2003,Malawi,Africa,Zambia,Africa,Malawi
+9/24/2003,Algeria,Africa,Gabon,Africa,Algeria
+9/26/2003,Algeria,Africa,Burkina Faso,Africa,Algeria
+12/8/2003,Kenya,Africa,Rwanda,Africa,Rwanda
+12/8/2003,Sudan,Africa,Uganda,Africa,Uganda
+2/11/2004,Tunisia,Africa,Nigeria,Africa,Tunisia
+2/19/2004,Kazakhstan,Asia,Armenia,Asia,Kazakhstan
+2/28/2004,Lesotho,Africa,Botswana,Africa,Botswana
+6/23/2004,Jordan,Asia,Syria,Asia,Syria
+6/24/2004,Portugal,Europe,England,Europe,Portugal
+6/26/2004,Sweden,Europe,Netherlands,Europe,Netherlands
+7/18/2004,Angola,Africa,Botswana,Africa,Angola
+7/21/2004,Uruguay,South America,Brazil,South America,Brazil
+7/25/2004,Argentina,South America,Brazil,South America,Brazil
+7/30/2004,Uzbekistan,Asia,Bahrain,Asia,Bahrain
+7/31/2004,Japan,Asia,Jordan,Asia,Japan
+8/3/2004,China PR,Asia,Iran,Asia,China PR
+10/22/2004,Nigeria,Africa,Ecuador,South America,Ecuador
+10/24/2004,Zimbabwe,Africa,Zambia,Africa,Zambia
+11/20/2004,Zambia,Africa,Angola,Africa,Angola
+11/30/2004,Thailand,Asia,Estonia,Europe,Thailand
+11/30/2004,Singapore,Asia,Hong Kong,Asia,Hong Kong
+12/2/2004,Thailand,Asia,Slovakia,Europe,Slovakia
+12/3/2004,Bahrain,Asia,Latvia,Europe,Bahrain
+12/3/2004,Finland,Europe,Oman,Asia,Oman
+12/22/2004,Ethiopia,Africa,Kenya,Africa,Ethiopia
+12/24/2004,Qatar,Asia,Oman,Asia,Qatar
+2/8/2005,Cyprus,Europe,Austria,Europe,Cyprus
+2/9/2005,Austria,Europe,Latvia,Europe,Latvia
+2/27/2005,Costa Rica,North America,Honduras,North America,Costa Rica
+4/16/2005,Namibia,Africa,Botswana,Africa,Botswana
+6/26/2005,Mexico,North America,Argentina,South America,Argentina
+7/21/2005,Colombia,South America,Panama,North America,Panama
+7/24/2005,United States,North America,Panama,North America,United States
+7/28/2005,Kuwait,Asia,United Arab Emirates,Asia,United Arab Emirates
+7/30/2005,Egypt,Africa,United Arab Emirates,Asia,Egypt
+8/13/2005,South Africa,Africa,Zambia,Africa,Zambia
+8/15/2005,Ukraine,Europe,Israel,Asia,Israel
+11/16/2005,Australia,Oceania,Uruguay,South America,Australia
+12/10/2005,Syria,Asia,Iraq,Asia,Iraq
+12/10/2005,Zanzibar,Africa,Uganda,Africa,Zanzibar
+2/4/2006,Nigeria,Africa,Tunisia,Africa,Nigeria
+2/4/2006,Cameroon,Africa,Ivory Coast,Africa,Ivory Coast
+2/10/2006,Egypt,Africa,Ivory Coast,Africa,Egypt
+2/28/2006,Finland,Europe,Kazakhstan,Asia,Kazakhstan
+3/1/2006,Finland,Europe,Belarus,Europe,Finland
+4/29/2006,Lesotho,Africa,Mozambique,Africa,Lesotho
+4/30/2006,Mauritius,Africa,Mozambique,Africa,Mozambique
+5/21/2006,Botswana,Africa,South Africa,Africa,Botswana
+6/3/2006,Northern Cyprus,Asia,Zanzibar,Africa,Northern Cyprus
+6/26/2006,Switzerland,Europe,Ukraine,Europe,Ukraine
+6/30/2006,Germany,Europe,Argentina,South America,Germany
+7/1/2006,England,Europe,Portugal,Europe,Portugal
+7/9/2006,Italy,Europe,France,Europe,Italy
+7/22/2006,Namibia,Africa,Seychelles,Africa,Seychelles
+4/29/2007,Mozambique,Africa,Zimbabwe,Africa,Mozambique
+5/26/2007,Malawi,Africa,South Africa,Africa,South Africa
+5/26/2007,Eswatini,Africa,Mauritius,Africa,Mauritius
+7/10/2007,Uruguay,South America,Brazil,South America,Brazil
+7/21/2007,Japan,Asia,Australia,Oceania,Japan
+7/22/2007,Iran,Asia,South Korea,Asia,South Korea
+7/25/2007,Iraq,Asia,South Korea,Asia,Iraq
+7/28/2007,South Korea,Asia,Japan,Asia,South Korea
+7/29/2007,Botswana,Africa,Angola,Africa,Botswana
+10/24/2007,South Africa,Africa,Zambia,Africa,South Africa
+6/20/2008,Croatia,Europe,Turkey,Europe/Asia,Turkey
+6/22/2008,Spain,Europe,Italy,Europe,Spain
+7/27/2008,Zambia,Africa,Zimbabwe,Africa,Zambia
+6/26/2009,Provence,Europe,Sápmi,Europe,Sápmi
+7/23/2009,Costa Rica,North America,Mexico,North America,Mexico
+10/28/2009,Zimbabwe,Africa,South Africa,Africa,Zimbabwe
+1/25/2010,Zambia,Africa,Nigeria,Africa,Nigeria
+6/29/2010,Paraguay,South America,Japan,Asia,Paraguay
+7/2/2010,Uruguay,South America,Ghana,Africa,Uruguay
+1/25/2011,Japan,Asia,South Korea,Asia,Japan
+2/8/2011,Romania,Europe,Ukraine,Europe,Ukraine
+2/9/2011,Sweden,Europe,Ukraine,Europe,Ukraine
+6/8/2011,Uruguay,South America,Netherlands,Europe,Uruguay
+6/18/2011,Costa Rica,North America,Honduras,North America,Honduras
+6/19/2011,Panama,North America,El Salvador,North America,Panama
+6/29/2011,Saare County,Europe,Åland Islands,Europe,Åland Islands
+6/30/2011,Isle of Man,Europe,Menorca,Europe,Menorca
+7/12/2011,Saint Lucia,North America,Aruba,North America,Saint Lucia
+7/16/2011,Argentina,South America,Uruguay,South America,Uruguay
+7/17/2011,Brazil,South America,Paraguay,South America,Paraguay
+7/20/2011,Paraguay,South America,Venezuela,South America,Paraguay
+2/5/2012,Gabon,Africa,Mali,Africa,Mali
+2/12/2012,Zambia,Africa,Ivory Coast,Africa,Zambia
+6/3/2012,Finland,Europe,Latvia,Europe,Latvia
+6/24/2012,England,Europe,Italy,Europe,Italy
+6/27/2012,Portugal,Europe,Spain,Europe,Spain
+11/21/2012,Argentina,South America,Brazil,South America,Brazil
+1/23/2013,Sweden,Europe,North Korea,Asia,Sweden
+2/2/2013,South Africa,Africa,Mali,Africa,Mali
+2/6/2013,Burkina Faso,Africa,Ghana,Africa,Burkina Faso
+6/27/2013,Spain,Europe,Italy,Europe,Spain
+6/30/2013,Uruguay,South America,Italy,Europe,Italy
+7/13/2013,Zimbabwe,Africa,Malawi,Africa,Zimbabwe
+7/14/2013,Angola,Africa,Lesotho,Africa,Lesotho
+7/17/2013,Zambia,Africa,South Africa,Africa,Zambia
+5/29/2014,Latvia,Europe,Estonia,Europe,Latvia
+6/4/2014,Abkhazia,Asia,South Ossetia,Asia,South Ossetia
+6/4/2014,Ellan Vannin,Europe,Iraqi Kurdistan,Asia,Ellan Vannin
+6/5/2014,Padania,Europe,Abkhazia,Asia,Padania
+6/5/2014,Occitania,Europe,Iraqi Kurdistan,Asia,Iraqi Kurdistan
+6/7/2014,Padania,Europe,Iraqi Kurdistan,Asia,Padania
+6/8/2014,County of Nice,Europe,Ellan Vannin,Europe,County of Nice
+6/28/2014,Brazil,South America,Chile,South America,Brazil
+6/29/2014,Costa Rica,North America,Greece,Europe,Costa Rica
+7/5/2014,Netherlands,Europe,Costa Rica,North America,Netherlands
+7/9/2014,Netherlands,Europe,Argentina,South America,Argentina
+1/23/2015,Iran,Asia,Iraq,Asia,Iraq
+1/23/2015,Japan,Asia,United Arab Emirates,Asia,United Arab Emirates
+1/30/2015,Curaçao,North America,Aruba,North America,Aruba
+2/7/2015,Equatorial Guinea,Africa,DR Congo,Africa,DR Congo
+2/8/2015,Ivory Coast,Africa,Ghana,Africa,Ivory Coast
+5/24/2015,Zambia,Africa,Namibia,Africa,Namibia
+5/24/2015,South Africa,Africa,Botswana,Africa,Botswana
+5/25/2015,Mozambique,Africa,Malawi,Africa,Mozambique
+5/27/2015,South Africa,Africa,Malawi,Africa,Malawi
+6/21/2015,Ellan Vannin,Europe,Felvidék,Europe,Ellan Vannin
+6/26/2015,Argentina,South America,Colombia,South America,Argentina
+6/27/2015,Brazil,South America,Paraguay,South America,Paraguay
+7/2/2015,Gibraltar,Europe,Åland Islands,Europe,Åland Islands
+7/4/2015,Chile,South America,Argentina,South America,Chile
+7/4/2015,Zambia,Africa,Namibia,Africa,Zambia
+7/19/2015,Trinidad and Tobago,North America,Panama,North America,Panama
+7/25/2015,United States,North America,Panama,North America,Panama
+10/13/2015,El Salvador,North America,Guatemala,North America,Guatemala
+2/3/2016,DR Congo,Africa,Guinea,Africa,DR Congo
+5/27/2016,Corsica,Europe,Basque Country,Europe,Basque Country
+6/1/2016,United Koreans in Japan,Asia,Northern Cyprus,Asia,Northern Cyprus
+6/2/2016,Iraqi Kurdistan,Asia,Padania,Europe,Padania
+6/3/2016,Bosnia and Herzegovina,Europe,Denmark,Europe,Bosnia and Herzegovina
+6/3/2016,Thailand,Asia,Syria,Asia,Thailand
+6/3/2016,Vietnam,Asia,Hong Kong,Asia,Vietnam
+6/3/2016,Iraqi Kurdistan,Asia,Western Armenia,Asia,Western Armenia
+6/3/2016,Chagos Islands,Africa,Raetia,Europe,Raetia
+6/4/2016,United Koreans in Japan,Asia,Iraqi Kurdistan,Asia,United Koreans in Japan
+6/5/2016,Abkhazia,Asia,Panjab,Asia,Abkhazia
+6/11/2016,Papua New Guinea,Oceania,New Zealand,Oceania,New Zealand
+6/17/2016,Peru,South America,Colombia,South America,Colombia
+6/18/2016,Namibia,Africa,Botswana,Africa,Botswana
+6/18/2016,South Africa,Africa,Lesotho,Africa,South Africa
+6/19/2016,Zambia,Africa,Eswatini,Africa,Eswatini
+6/22/2016,Botswana,Africa,DR Congo,Africa,Botswana
+6/25/2016,Switzerland,Europe,Poland,Europe,Poland
+6/26/2016,Argentina,South America,Chile,South America,Chile
+6/30/2016,Poland,Europe,Portugal,Europe,Portugal
+7/2/2016,Germany,Europe,Italy,Europe,Germany
+1/11/2017,Chile,South America,Croatia,Europe,Chile
+1/14/2017,China PR,Asia,Croatia,Europe,China PR
+2/1/2017,Burkina Faso,Africa,Egypt,Africa,Egypt
+6/9/2017,Kárpátalja,Europe,Ellan Vannin,Europe,Kárpátalja
+6/9/2017,Padania,Europe,Abkhazia,Asia,Padania
+6/10/2017,Northern Cyprus,Asia,Padania,Europe,Padania
+6/28/2017,Portugal,Europe,Chile,South America,Chile
+6/29/2017,Hitra,Europe,Western Isles,Europe,Western Isles
+6/29/2017,Greenland,North America,Menorca,Europe,Greenland
+7/1/2017,Namibia,Africa,Lesotho,Africa,Lesotho
+7/7/2017,Tanzania,Africa,Lesotho,Africa,Tanzania
+7/16/2017,Thailand,Asia,Belarus,Europe,Thailand
+3/21/2018,South Africa,Africa,Angola,Africa,South Africa
+3/21/2018,Zambia,Africa,Zimbabwe,Africa,Zambia
+3/22/2018,Thailand,Asia,Gabon,Africa,Thailand
+3/24/2018,Angola,Africa,Zimbabwe,Africa,Angola
+6/2/2018,Zambia,Africa,Namibia,Africa,Zambia
+6/3/2018,Andorra,Europe,Cape Verde,Africa,Cape Verde
+6/3/2018,South Africa,Africa,Madagascar,Africa,Madagascar
+6/3/2018,Zimbabwe,Africa,Botswana,Africa,Zimbabwe
+6/5/2018,Matabeleland,Africa,Kabylia,Africa,Kabylia
+6/6/2018,Lesotho,Africa,Zimbabwe,Africa,Zimbabwe
+6/9/2018,Tibet,Asia,United Koreans in Japan,Asia,United Koreans in Japan
+6/9/2018,Panjab,Asia,Cascadia,North America,Panjab
+6/9/2018,Padania,Europe,Székely Land,Europe,Padania
+6/9/2018,Northern Cyprus,Asia,Kárpátalja,Europe,Kárpátalja
+7/1/2018,Russia,Europe/Asia,Spain,Europe,Russia
+7/1/2018,Croatia,Europe,Denmark,Europe,Croatia
+7/3/2018,Colombia,South America,England,Europe,England
+7/7/2018,Russia,Europe/Asia,Croatia,Europe,Croatia
+1/20/2019,Jordan,Asia,Vietnam,Asia,Vietnam
+1/21/2019,Australia,Oceania,Uzbekistan,Asia,Australia
+3/23/2019,Oman,Asia,Singapore,Asia,Oman
+6/1/2019,Lesotho,Africa,Uganda,Africa,Lesotho
+6/2/2019,South Africa,Africa,Botswana,Africa,Botswana
+6/2/2019,Zambia,Africa,Malawi,Africa,Zambia
+6/4/2019,South Africa,Africa,Uganda,Africa,South Africa
+6/5/2019,Zimbabwe,Africa,Zambia,Africa,Zambia
+6/6/2019,Abkhazia,Asia,Western Armenia,Asia,Western Armenia
+6/6/2019,South Ossetia,Asia,Chameria,Europe,South Ossetia
+6/7/2019,Lesotho,Africa,Zimbabwe,Africa,Zimbabwe
+6/7/2019,South Africa,Africa,Malawi,Africa,South Africa
+6/8/2019,Abkhazia,Asia,Chameria,Europe,Abkhazia
+6/9/2019,Switzerland,Europe,England,Europe,England
+6/27/2019,Brazil,South America,Paraguay,South America,Brazil
+6/28/2019,Colombia,South America,Chile,South America,Chile
+6/29/2019,Mexico,North America,Costa Rica,North America,Mexico
+6/29/2019,Uruguay,South America,Peru,South America,Peru
+7/5/2019,Morocco,Africa,Benin,Africa,Benin
+7/7/2019,Madagascar,Africa,DR Congo,Africa,Madagascar
+7/8/2019,Ghana,Africa,Tunisia,Africa,Tunisia
+7/11/2019,Ivory Coast,Africa,Algeria,Africa,Algeria
+9/8/2019,Tanzania,Africa,Burundi,Africa,Tanzania
+10/13/2019,Chad,Africa,Liberia,Africa,Chad
+10/13/2019,Gambia,Africa,Djibouti,Africa,Gambia
+10/8/2020,Bosnia and Herzegovina,Europe,Northern Ireland,Europe,Northern Ireland
+10/8/2020,Slovakia,Europe,Republic of Ireland,Europe,Slovakia
+10/8/2020,Scotland,Europe,Israel,Asia,Scotland
+11/12/2020,Serbia,Europe,Scotland,Europe,Scotland
+6/3/2021,Mexico,North America,Costa Rica,North America,Mexico
+6/6/2021,Honduras,North America,Costa Rica,North America,Honduras
+6/28/2021,France,Europe,Switzerland,Europe,Switzerland
+7/2/2021,Peru,South America,Paraguay,South America,Peru
+7/2/2021,Switzerland,Europe,Spain,Europe,Spain
+7/3/2021,Uruguay,South America,Colombia,South America,Colombia
+7/6/2021,Italy,Europe,Spain,Europe,Italy
+7/6/2021,Trinidad and Tobago,North America,French Guiana,South America,Trinidad and Tobago
+7/6/2021,Argentina,South America,Colombia,South America,Argentina
+7/6/2021,Guatemala,North America,Guadeloupe,North America,Guadeloupe
+7/11/2021,England,Europe,Italy,Europe,Italy
+7/16/2021,Senegal,Africa,Eswatini,Africa,Senegal
+7/18/2021,Eswatini,Africa,Mozambique,Africa,Eswatini
+7/18/2021,South Africa,Africa,Senegal,Africa,South Africa
+11/19/2021,Sri Lanka,Asia,Seychelles,Africa,Seychelles
+12/11/2021,Morocco,Africa,Algeria,Africa,Algeria
+12/18/2021,Qatar,Asia,Egypt,Africa,Qatar
+1/23/2022,Burkina Faso,Africa,Gabon,Africa,Burkina Faso
+1/26/2022,Ivory Coast,Africa,Egypt,Africa,Egypt
+1/26/2022,Mali,Africa,Equatorial Guinea,Africa,Equatorial Guinea
+2/3/2022,Cameroon,Africa,Egypt,Africa,Egypt
+2/5/2022,Cameroon,Africa,Burkina Faso,Africa,Cameroon
+2/6/2022,Senegal,Africa,Egypt,Africa,Senegal
+3/25/2022,Tajikistan,Asia,Uganda,Africa,Uganda
+3/29/2022,Kazakhstan,Asia,Moldova,Europe,Kazakhstan
+3/29/2022,Senegal,Africa,Egypt,Africa,Senegal
+6/13/2022,Australia,Oceania,Peru,South America,Australia
+6/14/2022,Chile,South America,Ghana,Africa,Ghana
+9/22/2022,Thailand,Asia,Malaysia,Asia,Malaysia
+9/23/2022,Iraq,Asia,Oman,Asia,Oman
+9/25/2022,Malaysia,Asia,Tajikistan,Asia,Tajikistan
+11/16/2022,Lithuania,Europe,Iceland,Europe,Iceland
+11/16/2022,Latvia,Europe,Estonia,Europe,Latvia
+11/19/2022,Latvia,Europe,Iceland,Europe,Iceland
+12/5/2022,Japan,Asia,Croatia,Europe,Croatia
+12/6/2022,Morocco,Africa,Spain,Europe,Morocco
+12/9/2022,Croatia,Europe,Brazil,South America,Croatia
+12/9/2022,Netherlands,Europe,Argentina,South America,Argentina
+12/18/2022,Argentina,South America,France,Europe,Argentina
